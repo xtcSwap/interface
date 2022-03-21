@@ -2369,8 +2369,8 @@ msgid "Your V2 liquidity"
 msgstr "您的V2流动资金"
 
 #: src/pages/Pool/index.tsx
-msgid "Your active V3 liquidity positions will appear here."
-msgstr "您的 V3 流动性仓位将在此显示。"
+msgid "Your active liquidity positions will appear here."
+msgstr "您的流动性仓位将在此显示。"
 
 #: src/pages/Earn/Manage.tsx
 msgid "Your liquidity deposits"
